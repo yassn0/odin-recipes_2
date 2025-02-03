@@ -131,3 +131,33 @@ nav a {
     color: #1F2937;
     font-size: 18px;
 }
+
+/* Section Citation */
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 120px 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.quote-container {
+    max-width: 800px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 24px;
+    line-height: 1.4;
+    font-weight: lighter;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: right;
+}
